@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "my-games-library.Blazor/1.0.0": {
+        "runtime": {
+          "my-games-library.Blazor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "my-games-library.Blazor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

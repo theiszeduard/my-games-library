@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\my-games-library.Blazor.props" />
+</Project>
