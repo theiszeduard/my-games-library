@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "5JkYf4o366bjVwItH1bZoTeeG2h5XHJdyI+r2q+bn+xn8PnFd3rqq5VkSVp8tpL8eVQ4V8bRaMR27gzGOIUNdg==",
+  "dgSpecHash": "cCtg3OoUsCtqLy0GweJBGym8xhJ4yIcg9OScptB8scUv6mbP1VyLdOj4XIQ0gkl0vfwvYJSE8BQ9cIEHZ4Tp8w==",
   "success": true,
   "projectFilePath": "C:\\Workbench\\my-games-library\\my-games-library.Blazor\\my-games-library.Blazor.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\theis\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\theis\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\theis\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\theis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
